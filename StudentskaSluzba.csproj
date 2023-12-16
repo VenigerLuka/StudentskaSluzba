@@ -47,8 +47,6 @@
     <Compile Include="Model\IspitnePrijave.cs" />
     <Compile Include="Model\IspitniRokovi.cs" />
     <Compile Include="Model\Nastavnik.cs" />
-    <Compile Include="Model\Pohadja.cs" />
-    <Compile Include="Model\Predaje.cs" />
     <Compile Include="Model\Predmet.cs" />
     <Compile Include="Model\Student.cs" />
     <Compile Include="Program.cs" />
